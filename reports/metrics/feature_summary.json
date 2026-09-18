@@ -1,0 +1,12 @@
+{
+  "rows": 36500,
+  "labeled_rows": 35800,
+  "positive_label_rate": 0.1399,
+  "horizon_days": 7,
+  "leakage_controls": [
+    "rolling sales and historical stockout features shifted by one day",
+    "chronological splitting required by training pipeline",
+    "last seven observations per product left unlabeled",
+    "stockout_event excluded from model predictors"
+  ]
+}

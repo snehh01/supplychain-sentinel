@@ -1,0 +1,84 @@
+{
+  "shape": [
+    36500,
+    22
+  ],
+  "duplicate_rows": 0,
+  "missing_values": 0,
+  "top_stockout_products": [
+    {
+      "product_id": "P0062",
+      "product_name": "Face Serum 3",
+      "events": 46
+    },
+    {
+      "product_id": "P0063",
+      "product_name": "Water Bottle 2",
+      "events": 37
+    },
+    {
+      "product_id": "P0006",
+      "product_name": "Denim Jeans 2",
+      "events": 34
+    },
+    {
+      "product_id": "P0098",
+      "product_name": "Fitness Tracker 4",
+      "events": 33
+    },
+    {
+      "product_id": "P0022",
+      "product_name": "Makeup Kit 2",
+      "events": 32
+    },
+    {
+      "product_id": "P0026",
+      "product_name": "Coffee Maker 1",
+      "events": 31
+    },
+    {
+      "product_id": "P0039",
+      "product_name": "Blender 2",
+      "events": 30
+    },
+    {
+      "product_id": "P0078",
+      "product_name": "Yoga Mat 4",
+      "events": 27
+    },
+    {
+      "product_id": "P0056",
+      "product_name": "Protein Bar 4",
+      "events": 27
+    },
+    {
+      "product_id": "P0029",
+      "product_name": "Wireless Headphones 1",
+      "events": 27
+    }
+  ],
+  "highest_risk_category": {
+    "name": "Electronics",
+    "rate": 0.0496
+  },
+  "highest_risk_warehouse": {
+    "name": "Bengaluru DC",
+    "rate": 0.0436
+  },
+  "promotion_stockout_rates": {
+    "0": 0.04,
+    "1": 0.0533
+  },
+  "promotion_risk_lift": 1.33,
+  "highest_risk_season": {
+    "name": "Autumn",
+    "rate": 0.064
+  },
+  "lead_time_quartile_stockout_rates": {
+    "(3.999, 7.0]": 0.0282,
+    "(7.0, 11.0]": 0.0428,
+    "(11.0, 13.0]": 0.0443,
+    "(13.0, 20.0]": 0.0501
+  },
+  "inventory_demand_correlation": 0.488
+}

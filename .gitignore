@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python caches and test output
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.coverage
+htmlcov/
+
+# Local configuration and secrets
+.env
+.streamlit/secrets.toml
+
+# Local application logs
+streamlit*.log
+
+# Generated local plotting cache
+reports/.matplotlib/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

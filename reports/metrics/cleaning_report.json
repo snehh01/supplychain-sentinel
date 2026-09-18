@@ -1,0 +1,38 @@
+{
+  "input_rows": 36573,
+  "decisions": [
+    {
+      "issue": "unparseable_dates",
+      "affected_rows": 0,
+      "action": "removed because time order cannot be recovered safely"
+    },
+    {
+      "issue": "exact_duplicate_rows",
+      "affected_rows": 73,
+      "action": "kept first exact record to prevent double-counting"
+    },
+    {
+      "issue": "negative_current_inventory",
+      "affected_rows": 36,
+      "action": "reconstructed from beginning inventory minus units sold"
+    },
+    {
+      "issue": "missing_supplier_lead_time",
+      "affected_rows": 110,
+      "action": "imputed category-warehouse median, then global median fallback"
+    },
+    {
+      "issue": "other_negative_operational_values",
+      "affected_cells": 0,
+      "action": "clipped to zero where negative values are not logically valid"
+    },
+    {
+      "issue": "extreme_daily_sales",
+      "affected_rows": 93,
+      "action": "winsorized within product at 99.9th percentile; seasonal peaks retained"
+    }
+  ],
+  "output_rows": 36500,
+  "rows_removed": 73,
+  "remaining_missing_values": 0
+}

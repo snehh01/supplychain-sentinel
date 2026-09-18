@@ -1,0 +1,101 @@
+product_id,product_name,category,warehouse,region,base_daily_demand,unit_price,nominal_lead_time,supplier_reliability,reorder_point
+P0001,Protein Bar 1,Grocery,Bengaluru DC,South,43.83,6.31,13,0.8306,746
+P0002,Shampoo 1,Beauty,Kolkata DC,East,27.22,67.37,10,0.8111,327
+P0003,Denim Jeans 1,Fashion,Delhi DC,North,39.04,68.39,11,0.8365,625
+P0004,Organic Coffee 1,Grocery,Delhi DC,North,51.6,12.32,7,0.9178,620
+P0005,Power Bank 1,Electronics,Mumbai DC,West,61.89,399.17,10,0.6953,867
+P0006,Denim Jeans 2,Fashion,Bengaluru DC,South,35.47,102.28,13,0.7893,568
+P0007,Organic Coffee 2,Grocery,Mumbai DC,West,63.1,22.45,13,0.813,1073
+P0008,Breakfast Cereal 1,Grocery,Mumbai DC,West,45.33,23.4,10,0.8791,590
+P0009,Fitness Tracker 1,Electronics,Kolkata DC,East,38.87,230.76,7,0.8336,428
+P0010,Face Serum 1,Beauty,Kolkata DC,East,62.14,68.36,5,0.8068,560
+P0011,Shampoo 2,Beauty,Delhi DC,North,27.86,72.67,11,0.8159,363
+P0012,Cotton T-Shirt 1,Fashion,Mumbai DC,West,32.87,69.08,14,0.8938,625
+P0013,Running Shoes 1,Sports,Mumbai DC,West,28.58,95.55,5,0.8163,286
+P0014,Breakfast Cereal 2,Grocery,Mumbai DC,West,67.15,13.54,8,0.9108,672
+P0015,Makeup Kit 1,Beauty,Delhi DC,North,39.27,58.28,7,0.8488,432
+P0016,Blender 1,Home & Kitchen,Mumbai DC,West,22.93,105.85,5,0.5642,230
+P0017,Dumbbell Set 1,Sports,Mumbai DC,West,27.62,132.81,12,0.9038,470
+P0018,Power Bank 2,Electronics,Bengaluru DC,South,21.89,168.03,14,0.6676,417
+P0019,Protein Bar 2,Grocery,Bengaluru DC,South,64.26,11.45,6,0.9422,515
+P0020,Water Bottle 1,Sports,Mumbai DC,West,27.0,27.2,9,0.8738,298
+P0021,Organic Coffee 3,Grocery,Mumbai DC,West,58.93,24.43,5,0.8201,531
+P0022,Makeup Kit 2,Beauty,Mumbai DC,West,30.08,72.84,7,0.6483,271
+P0023,Cotton T-Shirt 2,Fashion,Kolkata DC,East,32.12,83.53,4,0.657,257
+P0024,Backpack 1,Fashion,Bengaluru DC,South,34.46,83.24,13,0.7947,552
+P0025,Organic Coffee 4,Grocery,Mumbai DC,West,75.16,13.11,6,0.5014,752
+P0026,Coffee Maker 1,Home & Kitchen,Bengaluru DC,South,28.52,166.07,12,0.7387,428
+P0027,Shampoo 3,Beauty,Bengaluru DC,South,29.49,74.83,11,0.864,443
+P0028,Power Bank 3,Electronics,Mumbai DC,West,33.32,406.22,9,0.7011,467
+P0029,Wireless Headphones 1,Electronics,Bengaluru DC,South,23.6,291.42,12,0.9131,331
+P0030,Organic Coffee 5,Grocery,Mumbai DC,West,65.67,15.81,12,0.9756,1117
+P0031,Organic Coffee 6,Grocery,Kolkata DC,East,74.77,20.11,10,0.7014,1122
+P0032,Backpack 2,Fashion,Delhi DC,North,35.35,33.07,9,0.7993,425
+P0033,Air Fryer 1,Home & Kitchen,Delhi DC,North,26.56,91.46,14,0.8736,479
+P0034,Shampoo 4,Beauty,Kolkata DC,East,23.03,54.94,13,0.8014,392
+P0035,Face Serum 2,Beauty,Mumbai DC,West,33.1,79.05,11,0.9383,431
+P0036,Coffee Maker 2,Home & Kitchen,Bengaluru DC,South,20.49,134.72,11,0.7726,328
+P0037,Power Bank 4,Electronics,Kolkata DC,East,43.49,304.85,4,0.8506,261
+P0038,Makeup Kit 3,Beauty,Mumbai DC,West,20.85,16.18,14,0.9529,334
+P0039,Blender 2,Home & Kitchen,Kolkata DC,East,19.85,111.72,12,0.6929,278
+P0040,Yoga Mat 1,Sports,Bengaluru DC,South,26.05,112.29,4,0.8688,157
+P0041,Body Lotion 1,Beauty,Bengaluru DC,South,24.25,18.7,14,0.7877,413
+P0042,Organic Coffee 7,Grocery,Mumbai DC,West,64.65,26.7,13,0.7097,1100
+P0043,Breakfast Cereal 3,Grocery,Bengaluru DC,South,55.76,15.38,7,0.761,614
+P0044,Coffee Maker 3,Home & Kitchen,Mumbai DC,West,24.81,97.07,12,0.711,397
+P0045,Organic Coffee 8,Grocery,Mumbai DC,West,103.71,17.74,8,0.7489,1038
+P0046,Organic Coffee 9,Grocery,Bengaluru DC,South,79.81,14.35,6,0.7761,878
+P0047,Body Lotion 2,Beauty,Delhi DC,North,41.29,70.39,10,0.8153,579
+P0048,Blender 3,Home & Kitchen,Delhi DC,North,27.91,76.34,13,0.7031,503
+P0049,Breakfast Cereal 4,Grocery,Mumbai DC,West,37.04,7.69,7,0.8755,371
+P0050,Smart Speaker 1,Electronics,Bengaluru DC,South,28.75,315.37,8,0.7946,374
+P0051,Air Fryer 2,Home & Kitchen,Delhi DC,North,30.55,164.14,11,0.7419,459
+P0052,Wireless Headphones 2,Electronics,Kolkata DC,East,29.77,111.82,9,0.6116,358
+P0053,Olive Oil 1,Grocery,Delhi DC,North,66.43,11.01,12,0.927,1063
+P0054,Yoga Mat 2,Sports,Delhi DC,North,31.24,104.39,13,0.9105,563
+P0055,Protein Bar 3,Grocery,Bengaluru DC,South,65.1,22.45,11,0.7559,912
+P0056,Protein Bar 4,Grocery,Kolkata DC,East,44.43,13.57,8,0.8756,489
+P0057,Makeup Kit 4,Beauty,Bengaluru DC,South,34.53,34.45,14,0.6945,622
+P0058,Running Shoes 2,Sports,Bengaluru DC,South,43.3,82.08,11,0.8874,693
+P0059,Fitness Tracker 2,Electronics,Kolkata DC,East,42.13,232.43,12,0.702,675
+P0060,Power Bank 5,Electronics,Bengaluru DC,South,20.71,98.72,13,0.9172,353
+P0061,Dumbbell Set 2,Sports,Delhi DC,North,24.39,92.21,12,0.955,391
+P0062,Face Serum 3,Beauty,Bengaluru DC,South,30.8,61.3,14,0.797,493
+P0063,Water Bottle 2,Sports,Bengaluru DC,South,24.12,131.56,11,0.6946,314
+P0064,Breakfast Cereal 5,Grocery,Mumbai DC,West,87.29,9.7,11,0.7821,1397
+P0065,Running Shoes 3,Sports,Delhi DC,North,26.61,44.39,13,0.9747,453
+P0066,Water Bottle 3,Sports,Mumbai DC,West,26.21,37.79,11,0.773,367
+P0067,Yoga Mat 3,Sports,Kolkata DC,East,50.48,67.5,10,0.727,657
+P0068,Air Fryer 3,Home & Kitchen,Mumbai DC,West,22.69,183.56,13,0.9028,363
+P0069,Fitness Tracker 3,Electronics,Delhi DC,North,39.29,333.68,12,0.9345,590
+P0070,Body Lotion 3,Beauty,Bengaluru DC,South,85.84,52.99,5,0.9237,601
+P0071,Coffee Maker 4,Home & Kitchen,Bengaluru DC,South,21.94,120.82,12,0.7356,330
+P0072,Face Serum 4,Beauty,Mumbai DC,West,21.37,19.52,5,0.7599,150
+P0073,Denim Jeans 3,Fashion,Mumbai DC,West,34.38,57.22,4,0.7867,310
+P0074,Air Fryer 4,Home & Kitchen,Mumbai DC,West,24.9,49.71,6,0.7009,225
+P0075,Smart Speaker 2,Electronics,Mumbai DC,West,30.6,172.22,13,0.9287,490
+P0076,Storage Set 1,Home & Kitchen,Delhi DC,North,31.47,39.67,12,0.7936,473
+P0077,Coffee Maker 5,Home & Kitchen,Bengaluru DC,South,26.21,36.94,9,0.8334,368
+P0078,Yoga Mat 4,Sports,Mumbai DC,West,29.87,130.94,11,0.5205,478
+P0079,Dumbbell Set 3,Sports,Mumbai DC,West,21.39,148.0,10,0.7954,321
+P0080,Breakfast Cereal 6,Grocery,Delhi DC,North,70.18,11.62,7,0.6954,632
+P0081,Water Bottle 4,Sports,Mumbai DC,West,48.03,61.23,4,0.7797,337
+P0082,Body Lotion 4,Beauty,Kolkata DC,East,42.77,84.4,4,0.8489,257
+P0083,Protein Bar 5,Grocery,Mumbai DC,West,58.77,18.92,4,0.8759,412
+P0084,Power Bank 6,Electronics,Mumbai DC,West,32.77,284.56,14,0.7214,623
+P0085,Wireless Headphones 3,Electronics,Kolkata DC,East,38.1,274.92,6,0.9036,381
+P0086,Power Bank 7,Electronics,Bengaluru DC,South,36.68,221.67,4,0.7226,331
+P0087,Olive Oil 2,Grocery,Kolkata DC,East,50.2,24.62,5,0.7673,452
+P0088,Face Serum 5,Beauty,Kolkata DC,East,40.54,66.15,11,0.9275,568
+P0089,Power Bank 8,Electronics,Bengaluru DC,South,26.0,153.47,12,0.8951,416
+P0090,Face Serum 6,Beauty,Bengaluru DC,South,43.68,35.3,14,0.7948,831
+P0091,Smart Speaker 3,Electronics,Bengaluru DC,South,44.65,217.03,10,0.8163,581
+P0092,Protein Bar 6,Grocery,Mumbai DC,West,59.48,10.67,9,0.9041,833
+P0093,Shampoo 5,Beauty,Mumbai DC,West,31.04,59.63,6,0.7995,249
+P0094,Makeup Kit 5,Beauty,Delhi DC,North,44.94,83.87,7,0.7267,540
+P0095,Blender 4,Home & Kitchen,Kolkata DC,East,11.8,129.45,14,0.6126,225
+P0096,Water Bottle 5,Sports,Delhi DC,North,22.39,58.48,8,0.8251,269
+P0097,Makeup Kit 6,Beauty,Delhi DC,North,77.93,19.33,8,0.66,780
+P0098,Fitness Tracker 4,Electronics,Mumbai DC,West,45.72,370.2,6,0.7128,366
+P0099,Power Bank 9,Electronics,Delhi DC,North,26.21,345.42,13,0.9561,394
+P0100,Backpack 3,Fashion,Delhi DC,North,37.07,115.13,7,0.8505,334

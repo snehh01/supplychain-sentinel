@@ -1,0 +1,8 @@
+RISK_COLORS = {
+    "LOW": "#4E7A62",
+    "MEDIUM": "#C79032",
+    "HIGH": "#D0663F",
+    "CRITICAL": "#9E2F2A",
+}
+RISK_ORDER = ["LOW", "MEDIUM", "HIGH", "CRITICAL"]
+

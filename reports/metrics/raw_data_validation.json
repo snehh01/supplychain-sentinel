@@ -1,0 +1,30 @@
+{
+  "status": "PASS_WITH_EXPECTED_RAW_QUALITY_ISSUES",
+  "shape": {
+    "rows": 36573,
+    "columns": 22
+  },
+  "unique_products": 100,
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2024-12-30"
+  },
+  "stockout_rate": 0.0409,
+  "missing_columns": [],
+  "missing_values": {
+    "supplier_lead_time": 111
+  },
+  "duplicate_rows": 73,
+  "negative_inventory_rows": 36,
+  "invalid_units_sold_rows": 0,
+  "invalid_discount_rows": 0,
+  "checks": {
+    "required_columns_present": true,
+    "record_count_in_requested_range": true,
+    "product_count_in_requested_range": true,
+    "date_order_parseable": true,
+    "stockout_target_has_both_classes": true,
+    "units_sold_respects_available_inventory": true,
+    "discount_in_valid_range": true
+  }
+}
